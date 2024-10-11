@@ -1,0 +1,14 @@
+# ~/.config/espanso/user/kitty.yml
+filter_class: "kitty"
+
+fast_inject: false
+disable_x11_fast_inject: true
+apply_path: false
+  # inject_delay: 15
+  # key_delay: 10
+
+backend: Clipboard           # -- not necessary; actually seems more performant if omitted
+# paste_shortcut: "CtrlShiftV" # -- no change with any accepted inputs ("CtrlShiftV", etc.)
+# apply_patch: false         #   -- no change in any combination
+#
+
